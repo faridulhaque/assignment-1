@@ -1,0 +1,166 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    text-align: justify;
+}
+#sec1{
+    display: flex;
+}
+.div-top{
+    width: 50%;
+    padding: 20px;
+    margin-left: 50px;
+    
+}
+#div-left{
+    margin-top: 100px;
+}
+#img-man{
+    
+    width: 100%;
+}
+#div-left-top{
+    border-left: red solid 5px;
+    padding-left: 5px;
+}
+#div-left-top h1{
+    font-size: 30px;
+    font-weight: 700;
+}    
+#div-left-top h2{
+        color: orange;
+        font-size: 25px;
+        font-weight: 600;
+}
+a{
+    background-color: orange;
+    padding: 5px 10px;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+}
+#my-mi-22{
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+}
+#my-mi-22 span{
+    color: orange;
+}
+#sec2{
+    display: flex;
+    padding: 30px;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+#sec2 div{
+    width: 28%;
+    padding: 5px;
+    border-radius: 10px;
+    margin-left: 2%;
+    margin-right: 2%;
+    
+}
+#sec2 h3{
+    padding: 0 2px;
+}
+.img-ill{
+    height: 100px;
+    width: 100px;
+}
+#sec2-div1{
+    background-color: rgb(161, 152, 139);
+
+}
+#sec2-div2{
+    background-color: rgb(144, 172, 175);
+}
+#sec2-div3{
+    background-color: rgb(194, 118, 110);
+}
+.p-in-sec2{
+    margin: 0 4px 2px;
+    padding: 0 2px;
+}
+#sec3{
+    display: flex;
+    margin-top: 25px;
+    
+}
+#sec3 div{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+     
+    
+}
+#img-sec3{
+    width: 80%;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+.h2-in-sec3n4{
+    font-weight: 700;
+}
+#sec4{
+    display: flex;
+    margin-top: 25px;
+}
+#sec4 div{
+    width: 40%;
+    margin-left: 10%;
+    margin-right: 0%;
+    
+}
+#img-sec4{
+    width: 80%;
+}
+#sec5{
+    display: flex;
+}
+#sec5 div{
+    width: 40%;
+    margin: 5%;
+    padding: 25px;
+    border: orange 5px solid;
+    border-radius: 5px;
+    
+}
+.h3insec5{
+    color: orange;
+}
+input{
+    border: orange 2px solid;
+    border-radius: 2px;
+}
+button{
+    background-color: orange;
+    color: white;
+    padding: 5px 14px;
+    text-decoration: none;
+    border: white 2px;
+    border-radius: 5px;
+    font-size: 16px;
+
+}
+footer{
+    width: 100%;
+    height: 100px;
+    background-color: black;
+}
+footer h3{
+    color: white;
+    font-size: 30pxpx;
+    text-align: center;
+    
+}
+footer h3 span{
+    color: red;
+}
+footer h6{
+    color: white;
+    text-align: center;
+    font-weight: 100;
+}

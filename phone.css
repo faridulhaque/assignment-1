@@ -1,0 +1,23 @@
+@media only screen and (max-width: 576px){
+    #sec1{
+        display: block;
+    }
+    #div-left-top h1, h2{
+        text-align: center;
+    }
+    #div-left-top{
+        border-left: none;
+        border-bottom: orangered solid 5px;
+    }
+    #div-left-bottom{
+        text-align: center;
+
+    }
+    #div-left-bottom p{
+        text-align: center;
+    }
+    .div-img{
+        display: none;
+    }
+        
+}

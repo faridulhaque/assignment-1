@@ -28,8 +28,10 @@
         grid-template-columns: repeat(1, fr);
         grid-gap: 10px 0;
     }
-    #sec2-div1, #sec2-div2, #sec2-div3{
-        width: 100%;
+    #sec2 div{
+        width: 90%;
+        margin-left: 5%;
+        margin-right: 5%;
     }
     #my-mi-22{
         text-align: center;

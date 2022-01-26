@@ -1,40 +1,36 @@
 @media only screen and (max-width: 576px){
-    body{
-        margin: 2px 2px;
-    }
     #sec1{
         display: block;
-    }
-    #div-left-top h1, h2{
-        text-align: center;
-    }
-    #div-left-top{
-        border-left: none;
-        border-bottom: orangered solid 5px;
-    }
-    #div-left-bottom{
-        text-align: center;
 
     }
-    #div-left-bottom p{
-        text-align: center;
+    #div-left{
+        margin-top: 100px;
+        order: 0;
+
     }
     .div-img{
-        display: none;
-    }
-    #sec2{
-        width: 100%;
-        display: grid;
-        grid-template-columns: repeat(1, fr);
-        grid-gap: 10px 0;
-    }
-    #sec2 div{
+        order: 1;
         width: 90%;
         margin-left: 5%;
         margin-right: 5%;
     }
-    #my-mi-22{
-        text-align: center;
+    #sec2{
+        display: grid;
+        grid-template-columns: repeat(1, fr);
+        margin: 100px 0;
+        
+    }
+    #sec2 div{
+        width: 70%;
+        height: 350px;
+        margin: 0 15%;
+        border-radius: 10px;
+        margin-top: 15px;
+       
+        
+    }
+    #sec3, #sec4{
+        display: block;
     }
         
 }
